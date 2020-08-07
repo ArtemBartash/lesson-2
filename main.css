@@ -1,0 +1,108 @@
+body
+{
+    background-color: whitesmoke;
+    margin: 0;
+}
+hr
+{
+    width: 64px;
+    height: 2px;
+    border: none;
+    background-color: orange;
+    
+}
+header
+{
+    vertical-align: middle;
+    padding: 95px;
+}
+h1
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    text-align : center ;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+.circle
+{
+    width: 70px; 
+    height: 70px;
+    border: solid orange;
+    /*background-color: orange;*/
+    border-radius: 50%;
+}
+
+.colons div
+{
+    display: inline-block;
+}
+.col1
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: center;
+    margin: 100px;  
+    width: 380px;
+    height: 82px;
+}
+.col2
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: center;
+    margin: 0px;
+    width: 380px;
+    height: 82px;
+}
+.col3
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    vertical-align: middle;
+    margin:  auto;
+    text-align: center;
+    margin: 80px;
+    width: 380px;
+    height: 82px;
+}
+.lamp
+{
+    margin: -33px
+}
+.keyboard
+{
+    margin: -30px
+}
+.lightning
+{
+    margin: -35px
+}
+
+/*.col1
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    display: table;
+    text-align: center;
+    margin: 123px ;
+}
+.col1 > div
+{
+    display: inline-block;
+    display: table-cell;
+    width: 350px;
+    height: 52px;
+    vertical-align: middle;
+}*/
+
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;*/
